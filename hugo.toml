@@ -1,1 +1,4 @@
+baseURL = 'sabin.gheorghiu.co.uk'
+languageCode = 'en-us'
+title = 'Sabin Gheorghiu'
 theme = 'ananke'
